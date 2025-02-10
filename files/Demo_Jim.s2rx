@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CEDResources App="Spike2" AppVer="1000">
+	<DocTime>
+		<View InfBkCR="0">
+			<WPlace flags="2" showc="3" minx="-1" miny="-1" maxx="-11" maxy="-45" t="38" b="977" l="38" r="2436" />
+			<Font hgt="-16" hthou="-111" wgt="400" paf="16" fnam="Times New Roman" />
+			<Chan Chan="30" DMode="9" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="2" ChType="5" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="6" DMode="11" DMkMode="1" AxMin="-5" AxMax="5" AdcAxMin="-5" AdcAxMax="5" FreqAxMax="60" AxType="1" ChType="6" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="5" DMode="11" AxMin="1.2680789887905122" AxMax="4.7915517628192905" AdcAxMin="1.2680789887905122" AdcAxMax="4.7915517628192905" FreqAxMax="24.482221418842663" AxType="1" ChType="7" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="4" DMode="10" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="24.371008527338002" ChType="4" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="3" DMode="9" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="2" ChType="8" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="2" DMode="10" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="200" ChType="2" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="1" DMode="10" DBoth="1" DHLine="1" Ax="0" AdcAxMax="1" FreqAxMax="200" ChType="2" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<Chan Chan="0" DMode="11" DWidth="-9.999999999999999e-06" DDSize="-1" AxMin="-5" AxMax="5" AdcAxMin="-5" AdcAxMax="5" FreqAxMax="50.00000000000001" AxType="1" ChType="1" BackOv="0">
+				<FitParam DrawFR="1" ShowF="0">
+					<c id="0" />
+					<c id="1" />
+					<c id="2" />
+				</FitParam>
+			</Chan>
+			<XInfo Right="121.24099999999999" XAxSmall="5" CRBack="0" VCLabMode="2" HCLabMode="1" VCCount="1">
+				<VCur id="0" Pos="115.68" LabMode="2" LabPos="0.2" Num="0" />
+			</XInfo>
+			<ChOrder Chans="8">
+				<c id="0" Chan="30" />
+				<c id="1" Chan="6" />
+				<c id="2" Chan="5" />
+				<c id="3" Chan="4" />
+				<c id="4" Chan="3" />
+				<c id="5" Chan="2" />
+				<c id="6" Chan="1" />
+				<c id="7" />
+			</ChOrder>
+			<CursVals />
+			<CursRegs />
+			<OvDraw3d YProp="0.5" XScale="0.5" YScale="0.5" />
+		</View>
+	</DocTime>
+</CEDResources>
